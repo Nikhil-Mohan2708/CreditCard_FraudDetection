@@ -19,7 +19,7 @@ The dataset used for this project is the "(https://rb.gy/2d7ya1))". It contains 
 
 2. Pandas
 
-3.NumPy
+3. NumPy
 
 4. Scikit-learn
 
